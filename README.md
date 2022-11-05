@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Avinpazhayattil
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning artificial intelligence and data science
-- 💞️ I’m looking to collaborate .....
-- 📫 To reach me "_samael_777" insta id
+ 👋 Hi, I’m @Avinpazhayattil
+ 👀 I’m interested in coding
+ 🌱 I’m currently learning artificial intelligence and data science
+ 📫 To reach me "_samael_777" insta id
 
 <!---
 Avinpazhayattil/Avinpazhayattil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
