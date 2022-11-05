@@ -1,4 +1,4 @@
-- Hi, I’m @Avinpazhayattil
+- Hi, I’m @Avin pazhayattil
 - I’m interested in coding
 - I’m currently learning artificial intelligence and data science
 - To reach me "_samael_777" insta id
